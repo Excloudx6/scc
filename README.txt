@@ -1,5 +1,8 @@
 SCC 0.3                                                 http://dev.zr40.nl/scc/
 
+The SC compiler is a compiler targeting 8051-like microcontrollers using a
+language inspired by C. The compiler supports optimization and includes tools
+for uploading to systems running the MON51 monitor.
 
 Installation instructions
 =========================
